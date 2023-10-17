@@ -1,4 +1,6 @@
-### UNIX
+### Операционная система UNIX
+Робачевский Андрей Михайлович - https://books.google.ru/books?id=AdHDYdGKPuMC&printsec=frontcover&hl=ru#v=onepage&q&f=false
+
 
 1. 1971г - 1ая версия UNIX
 2. 1982г - версия System 3
